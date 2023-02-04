@@ -2,9 +2,9 @@
 
 
 
-## Getting Started
+## Project Intro
 
-This project is a starting point for a Flutter application.
+Hey there very  in this video i will show you how to code single page ui for login and registration page like fragments in android. You can change view by clicking on option without refreshing the entire ui. Easy to follow speed code video. 
 
 A few resources to get you started if this is your first Flutter project:
 
